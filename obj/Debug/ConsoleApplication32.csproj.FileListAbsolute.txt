@@ -1,0 +1,6 @@
+/home/ash/RiderProjects/test/ConsoleApplication32/ConsoleApplication32/bin/Debug/ConsoleApplication32.exe
+/home/ash/RiderProjects/test/ConsoleApplication32/ConsoleApplication32/bin/Debug/ConsoleApplication32.pdb
+/home/ash/RiderProjects/test/ConsoleApplication32/ConsoleApplication32/obj/Debug/ConsoleApplication32.csprojAssemblyReference.cache
+/home/ash/RiderProjects/test/ConsoleApplication32/ConsoleApplication32/obj/Debug/ConsoleApplication32.csproj.CoreCompileInputs.cache
+/home/ash/RiderProjects/test/ConsoleApplication32/ConsoleApplication32/obj/Debug/ConsoleApplication32.exe
+/home/ash/RiderProjects/test/ConsoleApplication32/ConsoleApplication32/obj/Debug/ConsoleApplication32.pdb
